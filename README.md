@@ -23,3 +23,4 @@ Hacking Resource For Start Ethical Hacking
 + TryHackMe
 + Practial Pentest Lab
 + Firing Range
++ Xss Game
