@@ -13,6 +13,7 @@ Hacking Resource For Start Ethical Hacking
 + Kali Linux Training [OFFSEC] [EN]
 + Pentester Academy Pentesting Course [EN]
 + Metasploit Development [TR] @mdisec
++ Web Security & Hacking [TR] @mdisec
 + Boğaziçi University [TR]
 
 `BLOGS`
